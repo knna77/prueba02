@@ -3,5 +3,6 @@ arros
 formatge
 farina
 iogurt
+lleituga
 
 
