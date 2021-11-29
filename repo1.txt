@@ -1,5 +1,7 @@
 pa
 arros
 formatge
+farina
+iogurt
 
 
