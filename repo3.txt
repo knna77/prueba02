@@ -1,6 +1,10 @@
 Viure 
 Disfrutar
-Cantar
 Somiar
+<<<<<<< HEAD
 Somriure'ns
 epikjasd
+=======
+Respirar
+Somiar
+>>>>>>> rama01
